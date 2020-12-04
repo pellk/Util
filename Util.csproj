@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>nuell</RootNamespace>
+    <Version>1.0.0</Version>
+    <Company>nuell</Company>
+    <Product>Util</Product>
+    <Authors>Ako Mahmoodi</Authors>
+  </PropertyGroup>
+
+</Project>
